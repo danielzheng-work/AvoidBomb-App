@@ -12,11 +12,11 @@
 
 <div align="center">
   <p float="left">
-  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ab_view1.JPG" width="23%" />
-  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ad_view2.JPG" width="23%" />
-  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ab_view3.JPG" width="23%" />
-  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ab_view4.JPG" width="23%" />
-  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ab_view5.JPG" width="23%" />
+  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ab_view1.JPG" width="32%" />
+  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ad_view2.JPG" width="32%" />
+  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ab_view3.JPG" width="32%" />
+  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ab_view4.JPG" width="35%" />
+  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ab_view5.JPG" width="35%" />
 </p>
 </div>
 
