@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ab_logo.JPG" width="100" />
+  <img alt="Logo" src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ab_logo.JPG" width="200" />
 </div>
 
 <h1 align="center">
@@ -12,11 +12,11 @@
 
 <div align="center">
   <p float="left">
-  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ab_view1.jpg" width="23%" />
-  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ad_view2.jpg" width="23%" />
-  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ab_view3.jpg" width="23%" />
-  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ab_view4.jpg" width="23%" />
-  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ab_view5.jpg" width="23%" />
+  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ab_view1.JPG" width="23%" />
+  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ad_view2.JPG" width="23%" />
+  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ab_view3.JPG" width="23%" />
+  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ab_view4.JPG" width="23%" />
+  <img src="https://github.com/danielzheng-work/AvoidBomb-App/blob/main/img/ab_view5.JPG" width="23%" />
 </p>
 </div>
 
