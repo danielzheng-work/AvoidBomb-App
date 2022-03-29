@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- The drawables used here can be solid colors, gradients, shapes, images, etc. -->
+    <item>
+        <shape >
+            <gradient
+                android:startColor="@color/screenBG"
+                android:endColor="@color/screenBG"
+                android:angle="270" />
+
+        </shape>
+    </item>
+    <item>
+        <shape>
+        <gradient
+            android:startColor="@color/primaryRed"
+            android:endColor="#fc7b03"
+            android:angle="270" />
+        </shape>
+    </item>
+</transition>
