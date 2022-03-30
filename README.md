@@ -33,7 +33,7 @@
 
 ### Game Rule
 
-Game will start and promote user to set max bomb value with 30 as default. Each use can click multiple time on the main button as long as not hitting the targeted bomb value and pass to next user. Whoever got the bomb click will lose. 
+Game will start and promote user to set max bomb value with 30 as default. Each user can click multiple time on the main button as long as not hitting the targeted bomb value and pass to next user. Whoever got the bomb click will lose. 
 
 
 ## Library used 
