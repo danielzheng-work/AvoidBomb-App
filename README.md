@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
- Native Android Game application. Multiple users required. 
+ A native Android, multiple-users game application. The goal is to avoid hitting the bomb and this simple game can be enjoyed with a group of friends on a game night. 
 </p>
 
 <div align="center">
